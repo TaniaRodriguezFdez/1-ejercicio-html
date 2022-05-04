@@ -33,8 +33,6 @@ body{
 h1 {
     display: block;
     font-size: 2em;
-   
-  
     font-weight: bold;
     color:white;
 }
@@ -60,7 +58,7 @@ p{
     color: #333;
     padding-bottom: 2em;
 }
-p{
+.p-main{
     color: #333;
 }
 
